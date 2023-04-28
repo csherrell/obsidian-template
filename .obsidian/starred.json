@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Home",
+      "path": "Home.md"
+    },
+    {
+      "type": "file",
+      "title": "Running Log",
+      "path": "A Log/Running Log.md"
+    },
+    {
+      "type": "file",
+      "title": "FileLists",
+      "path": "FileLists.md"
+    },
+    {
+      "type": "file",
+      "title": "My Ever Growing List of Things to Write About",
+      "path": "Unresolved Links.md"
+    },
+    {
+      "type": "file",
+      "title": "2023 Goals",
+      "path": "Journal/2023 Goals.md"
+    },
+    {
+      "type": "file",
+      "title": "Obsidian Tips",
+      "path": "Technical/Obsidian/Obsidian Tips.md"
+    }
+  ]
+}

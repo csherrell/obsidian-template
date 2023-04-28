@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "dashboard",
+    "Dashboard",
+    "dashboard-ReadLineLength",
+    "UncreatedGraphColor"
+  ],
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Courier",
+  "textFontFamily": "Courier"
+}

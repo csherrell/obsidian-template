@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "f7733c139199401f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d436d3a26e277ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9fe742035a99e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FileLists.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fdf226fedd54e62",
+    "type": "split",
+    "children": [
+      {
+        "id": "58df9489893d949a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a74f1a732dd3562",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81b1671220bdf010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "macOS",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e2dbe80135666f3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "72cfa9010c3c0966",
+    "type": "split",
+    "children": [
+      {
+        "id": "033e4a886ea18c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec0ba85e390113ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FileLists.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "340b9466194e40a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FileLists.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2acc24590fde4bbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "275aaef8d10fc6bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FileLists.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "open-vscode:VSCode": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e9fe742035a99e62",
+  "lastOpenFiles": [
+    "Home.md",
+    "Log.md",
+    "Unresolved Links.md",
+    "FileLists.md",
+    "Running Log.md",
+    "junk/FileLists.md",
+    "Disposition/Bible/NeboNotes/2 Timothy 3.16.md",
+    "Disposition/Bible/NeboNotes/2019-09-08 - Sunday Sermon Notes 1.md",
+    "Disposition/Bible/NeboNotes/2 Timothy 1.5.md",
+    "Disposition/Bible/NeboNotes/2 Timothy 3.17.md"
+  ]
+}

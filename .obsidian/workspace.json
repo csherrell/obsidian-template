@@ -4,22 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "5d436d3a26e277ee",
+        "id": "6462fa2d05299dea",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fe742035a99e62",
+            "id": "14a077a9c87e2527",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9799308653125578,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "c15472c719bb848f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FileLists.md",
+                "file": "ToDo List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcc8fb31b1f82d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,14 +106,15 @@
             }
           },
           {
-            "id": "1e2dbe80135666f3",
+            "id": "968a0cc9e2e80a52",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FileLists.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FileLists.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FileLists.md"
+                "file": "Home.md"
               }
             }
           }
@@ -138,26 +187,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "zk-prefixer:Create new unique note": false,
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "open-vscode:VSCode": false,
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "e9fe742035a99e62",
+  "active": "bcc8fb31b1f82d81",
   "lastOpenFiles": [
-    "Home.md",
-    "Log.md",
-    "Unresolved Links.md",
     "FileLists.md",
+    "Obsidian Tips.md",
+    "ToDo List.md",
+    "Home.md",
+    "Templates/Journal.md",
+    "Templates/Daily-Note.md",
+    "Unresolved Links.md",
+    "My Ever Growing List of Things to Write About.md",
+    "Home.md~",
+    "sortspec.md",
+    "home",
+    "Links.md",
+    "Unresolved",
+    "sortspec",
+    "README.md",
+    "Log.md",
     "Running Log.md",
     "junk/FileLists.md",
     "Disposition/Bible/NeboNotes/2 Timothy 3.16.md",

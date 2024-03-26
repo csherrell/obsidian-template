@@ -1,14 +1,14 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-banners",
   "obsidian-emoji-toolbar",
   "homepage",
   "open-vscode",
-  "customizable-page-header-buttons",
   "cm-editor-syntax-highlight-obsidian",
   "periodic-notes",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-tasks-plugin",
+  "custom-sort"
 ]

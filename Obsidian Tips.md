@@ -159,3 +159,4 @@ gantt
 - [Dataview join tables and limit output of ungenerated notes](https://forum.obsidian.md/t/dataview-join-tables-and-limit-output-of-ungenerated-notes/50049)
 - [Dataview Structure of a Query](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)
 - [Changing the colour of uncreated notes in graph view](https://www.reddit.com/r/ObsidianMD/comments/p0w0ib/changing_the_colour_of_uncreated_notes_in_graph/)
+- [GitHub Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

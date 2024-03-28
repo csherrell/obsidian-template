@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Obsidian Tips.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -43,31 +43,19 @@
             }
           },
           {
-            "id": "c15472c719bb848f",
+            "id": "5d6981a9e8fa4801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo List.md",
+                "file": "Obsidian Tips.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcc8fb31b1f82d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Obsidian Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Obsidian Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Obsidian Tips.md"
               }
             }
           }
@@ -202,12 +190,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bcc8fb31b1f82d81",
+  "active": "5d6981a9e8fa4801",
   "lastOpenFiles": [
+    "Home.md",
     "FileLists.md",
     "Obsidian Tips.md",
     "ToDo List.md",
-    "Home.md",
     "Templates/Journal.md",
     "Templates/Daily-Note.md",
     "Unresolved Links.md",

@@ -1,0 +1,3 @@
+- [ ] Update Obsidian Template 📅 2024-03-25 
+- [ ] Do Taxes 🛫 2024-02-01 📅 2024-05-15
+- [ ] Solar Eclipse Camping Trip 🛫 2024-04-04 📅 2024-04-09

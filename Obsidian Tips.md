@@ -13,14 +13,16 @@
 
 Admonitions / Callout Blocks / Quotes Blocks are now built into Obsidian as of version v0.14.0. The Admonitions plugin is no longer required. Here are a few examples.
 
+> Normal Quote
+
+> [!TIP]
+> Tip
+
 > [!QUOTE]
 > Very Famous Quote
 
 > [!INFO]
 > Information
-
-> [!TIP]
-> Tip
 
 > [!EXAMPLE]
 > Example
@@ -33,6 +35,8 @@ Double brackets are use to create an internal link: `[[New Link]]`. Sometimes yo
 [[New Link]]
 [[New Link|this is the text that will be shown]]
 ```
+### GitHub Relative Links
+[This is the text that will appear](MyNewLink.md)
 
 ### Mathematics Examples
 

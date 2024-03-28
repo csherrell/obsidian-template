@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "macOS",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,8 +190,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5d6981a9e8fa4801",
+  "active": "81b1671220bdf010",
   "lastOpenFiles": [
+    "Serial-Logger.wiki",
+    "Serial-Logger.md",
+    "Obsidian Tips.wiki",
     "MyNewLink.md",
     "Home.md",
     "FileLists.md",
